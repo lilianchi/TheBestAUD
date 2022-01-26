@@ -26,7 +26,9 @@ Python
 
 ### Data Analysis
 1. Web Scraping
-2. Classification Models
+    * Craigslist_LAF_LA
+    * Craigslist_LAF_WL
+3. Classification Models
     * Data Processing
     * TFIDF Vectorizing
     * Model
@@ -34,9 +36,9 @@ Python
       2. Decision Tree Model Accuracy 70.57%
       3. Random Forest Model Accuracy 66.22%
       4. SVM model Accuracy
-3. Evaluation (Confusion Matrix)
-4. Topic Model
-5. Image Recognition
+4. Evaluation (Confusion Matrix)
+5. Topic Model
+6. Image Recognition
 
 ### Validation
 To ensure our model was performing correctly, we separated our data into separate train, test, and validation sets.
