@@ -1,4 +1,4 @@
-### TheBestAUD
+### lost or found?
 As of 2018, Craigslist has surmounted over 60 million users with over 50 billion pageviews per month and over 80 million ads posted on Craigslist monthly (expandedramblings.com). Craigslist is one of the most popular classified advertisements website used for 
 viewing and posting advertisements. Its goal is to help people easily find, buy, or sell anything. However, with these incredibly high user-visitation numbers, comes neglected 
 improvement on user-interface areas within less popular pages. As hired consultants for Craigslist, we were asked to improve the ad-viewers’ experience by analyzing Craigslist’s business model and process of the platform to find improvements and solutions for this proposal with a demo implementation.
